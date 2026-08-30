@@ -1,5 +1,6 @@
 {
   "name": "wonderworks",
+  "displayName": "WonderWorks AI",
   "version": "0.1.0",
   "description": "Generate images, video, music, sound effects and storyboards with WonderWorks AI, and view the results in the built-in media player.",
   "author": {
@@ -8,5 +9,12 @@
   "homepage": "https://studio.wonderworksai.com",
   "repository": "https://github.com/WonderWorksAI/wonderworksai-plugin",
   "license": "MIT",
-  "keywords": ["media", "image-generation", "video-generation", "music", "sound-design", "storyboard"]
+  "keywords": [
+    "media",
+    "image-generation",
+    "video-generation",
+    "music",
+    "sound-design",
+    "storyboard"
+  ]
 }
