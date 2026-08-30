@@ -1,0 +1,24 @@
+{
+  "name": "wonderworksai",
+  "owner": {
+    "name": "WonderWorks AI",
+    "url": "https://github.com/WonderWorksAI"
+  },
+  "description": "AI media generation for Claude — images, video, music, sound and storyboards.",
+  "version": "0.1.0",
+  "plugins": [
+    {
+      "name": "wonderworks",
+      "displayName": "WonderWorks AI",
+      "source": "./",
+      "description": "Generate images, video, music, sound effects and storyboards with WonderWorks AI, and view the results in the built-in media player.",
+      "version": "0.1.0",
+      "author": { "name": "WonderWorks AI" },
+      "homepage": "https://studio.wonderworksai.com",
+      "repository": "https://github.com/WonderWorksAI/wonderworksai-plugin",
+      "license": "MIT",
+      "category": "productivity",
+      "tags": ["media", "image-generation", "video-generation", "music", "sound-design", "storyboard"]
+    }
+  ]
+}

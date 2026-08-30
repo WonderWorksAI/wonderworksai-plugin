@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "wonderworks": {
+      "type": "http",
+      "url": "https://mcp.wonderworksai.com"
+    }
+  }
+}
